@@ -1,4 +1,4 @@
-Task: Implement 4 API Endpoints for creating, updating, getting and deleting an employee (CRUD)
+## Task: Implement 4 API Endpoints for creating, updating, getting and deleting an employee (CRUD)
 
 1. Define the Employee Entity with the following properties:
 	- Id
