@@ -26,3 +26,5 @@ Important Notes:
 - If you need to take adjustments on the provided wrapper in order to make your code functional, please go ahead
 
 - Own extensions and ideas are always wanted ;)
+
+- To test your endpoints it is recommended to use a software like Postman https://www.postman.com/downloads/
